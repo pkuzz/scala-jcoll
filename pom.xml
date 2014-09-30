@@ -6,7 +6,7 @@
         <artifactId>oss-parent</artifactId>
         <version>7</version>
     </parent>
-    <groupId>com.pkuzz.util</groupId>
+    <groupId>com.github.pkuzz.util</groupId>
     <artifactId>scala-jcoll</artifactId>
     <version>0.1</version>
     <packaging>jar</packaging>
